@@ -1,4 +1,4 @@
 # C Plus Plus Programming
-The laboratory assignments and exam exercise of course -- C Plus Plus Programming
+This repository contains assignments from C-Plus-Plus Programming course.
 
 Feb. 2023 ~ Jun. 2023
