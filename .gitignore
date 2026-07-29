@@ -1,0 +1,23 @@
+# Assignments Illustration and Textbook
+
+*.pptx
+*.ppt
+Exercise Answer/
+
+# ReadMe file
+
+ReadMe.pdf
+
+# Others
+
+*.zip
+*.exe
+*.o
+*.out
+
+# IDE & Config files
+.vscode/
+.vs/
+*.sqlite
+*.db
+*.vsidx
